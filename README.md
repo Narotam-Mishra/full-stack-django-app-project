@@ -1,0 +1,2 @@
+
+[The reason we check for request.method == 'POST' before deleting is to prevent CSRF (Cross-Site Request Forgery) attacks and follow REST conventions.](https://claude.ai/share/9810b81e-8b4c-46c0-90b2-83820cd11e34)
